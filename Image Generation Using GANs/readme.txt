@@ -1,0 +1,1 @@
+Generative Adversarial Network (GAN) for generating realistic images from random noise using TensorFlow and Keras. The model is trained on MNIST dataset and evaluated with metrics like Inception Score and FID for performance.
